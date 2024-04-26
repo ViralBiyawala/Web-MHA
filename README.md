@@ -1,6 +1,6 @@
-# Mental Health Awareness Project
+# MindCare
 
-This project aims to raise awareness about mental health issues and provide support through quizzes, personalized recommendations, and an interactive platform.
+This project aims to raise awareness about mental health issues and provide support through personalized recommendations, and an interactive platform.
 
 ## Table of Contents
 - [Description about Project](#description-about-project)
@@ -11,7 +11,8 @@ This project aims to raise awareness about mental health issues and provide supp
 - [Usage](#usage)
  
 ## Description about Project
-The Mental Health Awareness Project is designed to educate users about mental health conditions such as stress, depression, and anxiety. It provides personalized recommendations based on quizzes and offers a platform for users to interact and seek support. The project utilizes React with the Vite framework for the frontend and Django for the backend, integrating machine learning to identify and intervene in potentially concerning situations.
+The MindCare is designed to educate users about mental health conditions such as stress, depression, and anxiety. It provides personalized recommendations based on quizzes and offers a platform for users to interact and seek support. The project utilizes React with the Vite framework for the frontend, Django for the backend, and MongoDB as the database, integrating machine learning to identify and intervene in potentially concerning situations.
+
 
 ## About
 The Mental Health Awareness Project is a web application developed to promote mental well-being and provide resources for individuals facing mental health challenges. It offers educational content, personalized recommendations, and a supportive community forum to facilitate discussion and support.
@@ -36,15 +37,14 @@ The Mental Health Awareness Project is a web application developed to promote me
 - [Viral Biyawala(UI21CS66)](https://github.com/ViralBiyawala)
 
 ## Usage
+Clone the repository using `git clone https://github.com/your-username/mindcare.git`.
 ### Backend
-1. Clone the repository.
-2. Navigate to the `backend` directory.
-3. Install dependencies using `pip install -r requirements.txt`.
-4. Set up the database by running `python manage.py migrate`.
-5. Start the Django server using `python manage.py runserver`.
+1. Navigate to the `backend` directory.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Set up the database by running `python manage.py migrate`.
+4. Start the Django server using `python manage.py runserver`.
 
 ### Frontend  
-1. Clone the repository.
-2. Navigate to the `frontend` directory.
-3. Install dependencies using `npm install`.
-4. Start the Vite development server using `npm run dev`.
+1. Navigate to the `frontend` directory.
+2. Install dependencies using `npm install`.
+3. Start the Vite development server using `npm run dev`.
