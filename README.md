@@ -6,7 +6,6 @@ This project aims to raise awareness about mental health issues and provide supp
 - [Description about Project](#description-about-project)
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Team Members](#team-members)
 - [Usage](#usage)
  
