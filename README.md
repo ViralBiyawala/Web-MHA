@@ -23,7 +23,6 @@ The MindCare is a web application developed to promote mental well-being and pro
 - Interactive platform for user interaction and support
 - Forum for users to share experiences and seek advice
 - Machine learning-based content analysis for identifying concerning posts
-- Data analytics dashboard for administrators to track user engagement and trends
 - Accessibility features to ensure inclusivity for all users
 - Responsive design for optimal viewing across devices
 
