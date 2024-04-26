@@ -3,13 +3,13 @@
 This project aims to raise awareness about mental health issues and provide support through personalized recommendations, and an interactive platform.
 
 ## Table of Contents
-- [Description about Project](#description-about-project)
+- [Description](#description)
 - [About](#about)
 - [Features](#features)
 - [Team Members](#team-members)
 - [Usage](#usage)
  
-## Description about Project
+## Description
 The MindCare is designed to educate users about mental health conditions such as stress, depression, and anxiety. It provides personalized recommendations based on quizzes and offers a platform for users to interact and seek support. The project utilizes React with the Vite framework for the frontend, Django for the backend, and MongoDB as the database, integrating machine learning to identify and intervene in potentially concerning situations.
 
 
