@@ -32,8 +32,8 @@ The Mental Health Awareness Project is a web application developed to promote me
 
 ## Team Members
 - [Shivam Sikotra(UI21CS55)](https://github.com/ShivamSikotra11/)
-- [Shyam Patel(UI21CS57)](https://github.com/ViralBiyawala/)
-- [Viral Biyawala(UI21CS66)](https://github.com/shyam2024)
+- [Shyam Patel(UI21CS57)](https://github.com/shyam2024)
+- [Viral Biyawala(UI21CS66)](https://github.com/ViralBiyawala)
 
 ## Usage
 ### Backend
