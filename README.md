@@ -15,7 +15,7 @@ The MindCare is designed to educate users about mental health conditions such as
 
 
 ## About
-The Mental Health Awareness Project is a web application developed to promote mental well-being and provide resources for individuals facing mental health challenges. It offers educational content, personalized recommendations, and a supportive community forum to facilitate discussion and support.
+The MindCare is a web application developed to promote mental well-being and provide resources for individuals facing mental health challenges. It offers educational content, personalized recommendations, and a supportive community forum to facilitate discussion and support.
 
 ## Features
 - Quizzes to assess mental health status
@@ -37,12 +37,11 @@ The Mental Health Awareness Project is a web application developed to promote me
 - [Viral Biyawala(UI21CS66)](https://github.com/ViralBiyawala)
 
 ## Usage
-Clone the repository using `git clone https://github.com/your-username/mindcare.git`.
+Clone the repository using `git clone https://github.com/ViralBiyawala/Web-MHA.git`.
 ### Backend
 1. Navigate to the `backend` directory.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Set up the database by running `python manage.py migrate`.
-4. Start the Django server using `python manage.py runserver`.
+3. Start the Django server using `python manage.py runserver`.
 
 ### Frontend  
 1. Navigate to the `frontend` directory.
